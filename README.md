@@ -41,8 +41,6 @@ npm run dev
 > - [vw 视口适配](#viewport)
 > - [Tailwindcss 原子类框架](#tailwindcss)
 > - [Git 提交信息规范](#git)
-> - [CDN 加载依赖](#CDN)
-
 
 
 ### - <span id="vant">按需引入 vant 组件</span>
